@@ -29,3 +29,8 @@ Project Installation Guide
 4. Check your current directory carefully.If directory isn't in  "G:\Folder_name\web-application> " like this then run this command for chnage directry.cd web-application
 5. Now install of the dependencies which are listed here .
 6. Finally run npm start .(Directory shoud be \web-application.Otherwise Project will not work)
+
+
+   Once Project works successfully then it will appear below page on your default web browser.
+   ![Home Page](https://github.com/ridmiWeerakoon/Appointment-Schedule-Web-Application-React-PHP/assets/98549500/6ac18c51-b57f-42eb-840c-bf50d9723c73)
+
