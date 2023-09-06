@@ -1,0 +1,47 @@
+.App {
+  text-align: center;
+}
+
+
+nav ul{
+  list-style: none;
+}
+
+nav ul li{
+  display: inline-block;
+  padding: 10px;
+}
+
+.navbar{
+  height: 35px;
+} 
+
+#nav{
+  height: 70px;
+}
+
+.custom-card {
+  transform: scale(0.9); /* Make the cards 90% of their original size */
+  transition: transform 0.3s ease-in-out; /* Add a smooth transition effect */
+}
+
+.custom-card:hover {
+  transform: scale(1); /* Enlarge the card back to its original size on hover */
+}
+
+
+/* JobSeekerForm.css */
+.home-icon {
+  position: absolute;
+  top: 10px; /* Adjust the top position as needed */
+  right: 10px; /* Adjust the right position as needed */
+  cursor: pointer;
+  font-size: 24px;
+  color: #333; /* Adjust the color as needed */
+}
+
+
+
+
+
+
