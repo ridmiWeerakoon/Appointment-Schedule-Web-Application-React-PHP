@@ -28,8 +28,10 @@ Project Installation Guide
 3. Open VS Code terminal and run "npx create-react-app web-application " command.
 4. Check your current directory carefully.If directory isn't in  "G:\Folder_name\web-application> " like this then run this command for chnage directry.cd web-application
 5. Now install of the dependencies which are listed here .
-6. Remove everything in www folder of Wampserver and Copy all the Api Endpoints into Wampserver www folder.
-7. Finally run npm start .(Directory shoud be \web-application.Otherwise Project will not work)
+6. Open Wampserver and open phpmyadmin
+7. create database called web_app.Now click on web_app db and click improt and import db file.
+8. Remove everything in www folder of Wampserver and Copy all the Api Endpoints into Wampserver www folder.
+9. Finally run npm start .(Directory shoud be \web-application.Otherwise Project will not work)
 
 
 Once Project works successfully then it will appear below page on your default web browser.
